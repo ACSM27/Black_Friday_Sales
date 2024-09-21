@@ -3,6 +3,10 @@
 Objective:
 The objective of this is to perform an exploratory data analysis (EDA) on the provided Black Friday Sales dataset using Python libraries such as NumPy, Pandas, Matplotlib, and Seaborn. We will explore, clean, and visualize the data to uncover insights and patterns.
 
+### Tools Used
+- **Programming Languages**: Python
+- **Libraries**: Pandas , Numpy , Matplotlib , Seaborn
+
 ### Analysis Questions:
 - Purchase Behavior Analysis:
 Analyze the distribution of the Purchase amount. Are there specific groups (e.g., age groups, gender, or city categories) that tend to spend more?
@@ -25,6 +29,6 @@ Investigate if there are significant differences in product category preferences
 - Advanced Insights:
 Use advanced visualizations like heatmaps or pair plots to discover any hidden patterns or relationships within the data.
 
-### Insights and Conclusion:
+### Insights and Conclusion
 - Summarize key findings from the EDA, including any interesting patterns or relationships discovered.
 
